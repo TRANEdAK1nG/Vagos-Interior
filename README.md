@@ -4,3 +4,4 @@ Video: https://youtu.be/vWfO6q8exD8
 # Installation
 1. Add the `vagosint` folder to your FiveM resources directory.
 2. Inside the **server.cfg** file type `start vagosint`.
+Dont
